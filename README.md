@@ -24,6 +24,8 @@ Use Git init to create a local git repository.  Connect the local repo to the on
 Go to the repo on github and check that your file uploaded properly. 
 Go to the settings page, and add collaborators (Your other team members).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jY4ZOVTkL6Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Task Two - Team Member
 
 You should receive an email inviting you to the GitHub Repo.  Accept the invitation, and navigate to the repo.  Copy the repo url.
