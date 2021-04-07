@@ -7,7 +7,7 @@ In this lab you will:
 * Learn how to use GitHub to collaborate as a team
 * Learn about pull requests and merging new branches to a master timeline
 
-![gitTimeline](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.cpanel.com%2Fgit-version-control-series-what-is-git%2F&psig=AOvVaw1Y2NlekavbgIY7A6s9FDhy&ust=1617889307841000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDtpcGh7O8CFQAAAAAdAAAAABAJ)
+![gitTimeline](https://github.com/jmichalenko/GitCollaboration/blob/3781d3f95db4582f8696f72003626df298ef0014/GitCollaboration.png)
 
 The real power of GitHub is the ability to collaborate on code with a team of developers.  For this lab, pick a team of 2. Identify one person as the “Team Lead” who will authorize the GitHub merges.  No one else on the team should merge pull requests, or you will undoubtedly end up with merge conflicts. (There are ways to resolve these, but lets get the general process of collaboration under our belt, before we deal with conflicts.)  To begin with we will take complexity of code out of the equation, and just work with a text file.  We are going to pretend we are working in an HR department, and we want to as a team come up with this year’s interview questions for our seasonal staff.
 
