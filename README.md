@@ -40,6 +40,9 @@ Use git add to stage the modified file, git commit to commit the change, and git
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K44on6PVgRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Navigate to the github repo, switch to the new branch you made, and create a pull request so your 'team leader' can review your work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HQjXQAvbJg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Task Three - Team Leader (Others Should Observe)
 
